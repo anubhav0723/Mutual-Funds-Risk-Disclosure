@@ -1,4 +1,4 @@
-#Mutual Fund Risk Disclosure
+# Mutual Fund Risk Disclosure
 
 
 1.	Over 54 million American households save for retirement through investments in mutual funds (think TIAA CREF & Fidelity). The potential to build a robust dataset of mutual fund risk disclosures and the relevance of mutual fund disclosures to individual and national retirement security, make this area ripe for further research with implications in corporate/investment law, finance and data science fields, among others.
